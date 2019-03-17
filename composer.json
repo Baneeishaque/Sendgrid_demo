@@ -1,0 +1,15 @@
+{
+    "name": "baneeishaque/sendgrid_demo",
+    "description": "Sendgrid Demo Work",
+    "type": "project",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Banee Ishaque K",
+            "email": "baneeishaque@gmail.com"
+        }
+    ],
+    "require": {
+        "sendgrid/sendgrid": "~7"
+    }
+}
